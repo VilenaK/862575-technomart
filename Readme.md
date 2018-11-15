@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Вилена Кудрявцева](https://up.htmlacademy.ru/htmlcss/23/user/862575).
-* Наставник: [Евгений Котов] (https://up.htmlacademy.ru/htmlcss/23/user/25083).
+* Наставник: [Евгений Котов](https://up.htmlacademy.ru/htmlcss/23/user/25083).
 
 ---
 
